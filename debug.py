@@ -28,7 +28,3 @@ if __name__ == '__main__':
     cgminer_api(ip, port, ['debug', 'D'])
     debug(ip)
     cgminer_api(ip, port, ['debug', 'D'])
-
-
-
-    
